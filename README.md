@@ -1,3 +1,2 @@
-This a website for ordering food, pretty simple. Can be viewd below
+This a website for ordering food, made for a hotel i interned in
 
-136menu.netlify.app
